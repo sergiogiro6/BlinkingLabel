@@ -26,4 +26,9 @@ class Tests: XCTestCase {
         }
     }
     
+    func testButton(){
+        //blinkingLabel.text = "I blink!"
+        //blinkingLabel.font = UIFont.systemFontOfSize(20)
+    }
+    
 }
