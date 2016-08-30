@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
   s.description      = 'This CocoaPod provides the ability to use a UILabel that may be started and stopped blinking.'
 
-  s.homepage         = 'https://github.com/<GITHUB_USERNAME>/BlinkingLabel'
+  s.homepage         = 'https://github.com/sergiogiro6/BlinkingLabel'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Sergio Girao' => 'sergio.girao@touchvie.com' }
